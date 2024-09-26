@@ -41,14 +41,12 @@ Join the travel revolution! Contribute and enhance this project:
 
 For questions, suggestions, or if you've encountered coding challenges, connect with me on LinkedIn and Twitter:
 
-- [GitHub Profile](https://github.com/MHuzaifa-Rauf)
+- [GitHub Profile](https://github.com/Suryakausthub/)
 
 I'm here to guide you through the coding adventures. Let's make this project extraordinary together!
 
 ## Author
 
 Crafted by
-[Huzaifa Rauf](https://github.com/MHuzaifaRauf),
-[Abdul Rehman Khan](https://github.com/abdulrehmanuni) and
-[Abdul Mateen](https://github.com/AbdulMateen18), 
+[A.Surya Kausthub](https://github.com/Suryakausthub/)
 bringing the allure of exploration to your coding endeavors! May the code be ever in your favor!
